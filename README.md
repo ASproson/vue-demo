@@ -4,7 +4,7 @@
 
 MacOS:
 
-```brew install node```
+`brew install node`
 
 Windows:
 
