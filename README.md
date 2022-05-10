@@ -15,3 +15,11 @@ Vite Preview (Vuetify 3 + Vite)
 Close server, ctrl + c
 npm run dev
 ```
+
+## Cloning the repo locally
+
+```
+git clone https://github.com/ASproson/vue-demo.git
+npm i
+npm run dev
+```
