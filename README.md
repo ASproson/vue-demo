@@ -32,6 +32,7 @@ npm run dev
 
 ```
 git clone https://github.com/ASproson/vue-demo.git
+cd vue-demo/demo-app
 npm i
 npm run dev
 ```
