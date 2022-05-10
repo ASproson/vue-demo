@@ -5,7 +5,7 @@
       <h1>Home Page</h1>
       <div id="chart-container">
         <BarChart />
-        <BarChart />
+        <PieChart />
         <BarChart />
       </div>
     </v-main>
@@ -15,6 +15,7 @@
 <script>
 import Header from "./components/Header.vue";
 import BarChart from "./components/BarChart.vue";
+import PieChart from "./components/PieChart.vue";
 
 export default {
   name: "App",
@@ -22,6 +23,7 @@ export default {
   components: {
     Header,
     BarChart,
+    PieChart,
   },
 
   data: () => ({
