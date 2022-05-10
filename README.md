@@ -1,8 +1,20 @@
 # Vue Demo
 
+## Enabling Vue Development
+
+MacOS:
+
+```brew install node```
+
+Windows:
+
+[NodeJS Installer](https://nodejs.org/en/download/)
+
 ## Setting up your own environment
 
-Follow the [Vite](https://next.vuetifyjs.com/en/getting-started/installation/) installation section
+Following the [Vite](https://next.vuetifyjs.com/en/getting-started/installation/) installation section
+
+Open up VSCode/PyCharm, navigate to the folder that you want to install the project, then, using the terminal then run the following commands in order:
 
 ```
 npm init @vitejs/app demo-app -- --template vue
